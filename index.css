@@ -1,0 +1,17 @@
+#wrapper {
+	width: 90%;
+	margin: 10px auto;
+	border: 2px solid orange;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	padding: 5px;
+}
+* {
+	margin: 10px;
+}
+
+.flag1, .flag2 {
+	width: 265px;
+	height: 150px;
+	display: block;
+}
